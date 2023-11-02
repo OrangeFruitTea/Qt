@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\gitCodeFile\repos\Qt\SimpleClock\main.cpp(6,15): error C2079: “a”使用未定义的 class“QApplication”
+C:\gitCodeFile\repos\Qt\SimpleClock\main.cpp(6,16): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+C:\gitCodeFile\repos\Qt\SimpleClock\main.cpp(6,16): message : 初始值设定项包含过多元素
